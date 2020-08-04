@@ -1,3 +1,7 @@
+# Objectif de la carte
+
+Affichage d'une carte issue d'OpenStreetMap grâce à la librairie Leaflet et ajout de données (agenda culturel) issues de l'API fournie par Data Toulouse Métropole.
+
 # MapTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
